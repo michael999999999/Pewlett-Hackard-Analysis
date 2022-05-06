@@ -6,33 +6,40 @@ Perform an analysis of current Pewlett-Hackard employees to forecast upcoming re
 ## Analysis of Employees Nearing Retirement
 ![Retiring_Titles](https://github.com/michael999999999/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 
-Blah Blah Blah.
-
-### bullet point 1
+### Retiring Staff and Engineers vs. Retiring Senior Staff and Senior Engineers
 
 Blah Blah Blah
 
-### bullet point 2
+### Retiring Staff vs. Retiring Mangers
 
 Blah Blah Blah
 
-### bullet point 3
+### 72500 / 300000 = 24 % Retiring
 
 Blah Blah Blah
 
-### bullet point 4
+### Potential for Senior Technique Leader?
 
 Blah Blah Blah
 
 ## Analysis of Employees Eligible for Mentorship Program
 ![Mentorship_Eligibility](https://github.com/michael999999999/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
 
-Blah Blah Blah.
+### only 1500 potential mentors
 
-- bullet point 1
-- bullet point 2
-- bullet point 3
-- bullet point 4
+Blah Blah Blah
+
+### rating system so best candiates are chosen
+
+Blah Blah Blah
+
+### qualifications to be a mentor
+
+Blah Blah Blah
+
+### Time with Pewlett-Hackard
+
+Blah Blah Blah
 
 ### Summary of the Pewlett-Hackard Employee Database
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
