@@ -4,7 +4,7 @@
 Perform an analysis of current Pewlett-Hackard employees to forecast upcoming retirements, as well as identify employees that could act as mentors in the future.
 
 ## Analysis of Employees Nearing Retirement
-![image_description](https://image_link)
+![Retiring_Titles](https://github.com/michael999999999/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 
 Blah Blah Blah.
 
@@ -14,7 +14,7 @@ Blah Blah Blah.
 - bullet point 4
 
 ## Analysis of Employees Eligible for Mentorship Program
-![image_description](https://image_link)
+![Mentorship_Eligibility](https://github.com/michael999999999/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
 
 Blah Blah Blah.
 
