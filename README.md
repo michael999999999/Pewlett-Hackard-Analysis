@@ -8,10 +8,21 @@ Perform an analysis of current Pewlett-Hackard employees to forecast upcoming re
 
 Blah Blah Blah.
 
-- bullet point 1
-- bullet point 2
-- bullet point 3
-- bullet point 4
+### bullet point 1
+
+Blah Blah Blah
+
+### bullet point 2
+
+Blah Blah Blah
+
+### bullet point 3
+
+Blah Blah Blah
+
+### bullet point 4
+
+Blah Blah Blah
 
 ## Analysis of Employees Eligible for Mentorship Program
 ![Mentorship_Eligibility](https://github.com/michael999999999/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
